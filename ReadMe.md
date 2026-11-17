@@ -11,9 +11,9 @@
 
 Экран входа содержит поля логина и пароля и кнопку перехода к регистрации. 
 
-
-https://github.com/user-attachments/assets/a2ffe136-49f7-49be-a5bd-7bdcdec4d5fb
-
+<p align="center">
+  <img src="https://github.com/Svetlana184/ParamonovKursach/blob/main/%D1%82%D0%B5%D0%BA%D1%81%D1%82/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B/1.PNG" width="300" alt="Экран входа в систему">
+</p>
 
 <p align="center">
   <img src="https://github.com/Svetlana184/ParamonovKursach/blob/main/%D1%82%D0%B5%D0%BA%D1%81%D1%82/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B/3.PNG" width="300" alt="Экран входа в систему">
@@ -50,3 +50,11 @@ https://github.com/user-attachments/assets/a2ffe136-49f7-49be-a5bd-7bdcdec4d5fb
   <img src="https://github.com/Svetlana184/ParamonovKursach/blob/main/%D1%82%D0%B5%D0%BA%D1%81%D1%82/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B/13.PNG" width="800" alt="Редактирование списка задач">
 </p>
 
+Видео регистрации клиента и добавления проекта
+https://github.com/user-attachments/assets/a2ffe136-49f7-49be-a5bd-7bdcdec4d5fb
+
+Работа менеджера с проектом
+https://github.com/user-attachments/assets/af8ee890-a463-413f-acd9-8655c48fbbee
+
+Принятие счета клиентом
+https://github.com/user-attachments/assets/b726ff9d-826b-4e07-bebb-33ca882da557
