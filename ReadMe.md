@@ -46,10 +46,16 @@
 </p>
 
 Видео регистрации клиента и добавления проекта
+
 https://github.com/user-attachments/assets/a2ffe136-49f7-49be-a5bd-7bdcdec4d5fb
 
+
 Работа менеджера с проектом
+
 https://github.com/user-attachments/assets/af8ee890-a463-413f-acd9-8655c48fbbee
 
+
 Принятие счета клиентом
+
 https://github.com/user-attachments/assets/b726ff9d-826b-4e07-bebb-33ca882da557
+
